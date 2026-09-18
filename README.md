@@ -9,7 +9,7 @@ Cada tecla reproduz um som diferente de bateria, permitindo utilizar tanto o tec
 ## 📸 Preview
 
 <p align="center">
-  <img src="./assets/preview.png" alt="Drum Kit desenvolvido com JavaScript" width="700">
+  <img src="./assets/Drum-kit.png" alt="Drum Kit desenvolvido com JavaScript" width="700">
 </p>
 
 ---
