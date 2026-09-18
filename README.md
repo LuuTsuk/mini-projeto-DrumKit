@@ -1,8 +1,8 @@
 # 🥁 Drum Kit
 
-Drum Kit interativo desenvolvido com **HTML, CSS e JavaScript**.
+Mini projeto desenvolvido durante meus estudos de **JavaScript**, a partir do repositório de estudos `mini-projetos-js`.
 
-Cada tecla reproduz um som diferente de bateria, permitindo utilizar tanto o teclado do computador quanto os botões exibidos na tela.
+O objetivo foi praticar conceitos de manipulação do DOM, eventos de teclado, eventos de clique e reprodução de áudio.
 
 ---
 
@@ -16,11 +16,13 @@ Cada tecla reproduz um som diferente de bateria, permitindo utilizar tanto o tec
 
 ## 💻 Sobre o projeto
 
-Este mini projeto foi desenvolvido para praticar manipulação do DOM, eventos e reprodução de áudio através do JavaScript.
+Este projeto foi desenvolvido com base no exercício **Drum Kit** presente no repositório:
 
-Os botões correspondentes às teclas são criados dinamicamente através do próprio JavaScript.
+[fernandoleonid/mini-projetos-js](https://github.com/fernandoleonid/mini-projetos-js)
 
-O projeto reconhece tanto cliques realizados com o mouse quanto comandos enviados pelo teclado.
+Utilizei o projeto como material de estudo para acompanhar a lógica, reproduzir a implementação e praticar conceitos de JavaScript puro.
+
+O Drum Kit permite reproduzir diferentes sons de bateria utilizando tanto o teclado quanto os botões exibidos na tela.
 
 ---
 
@@ -38,23 +40,25 @@ As teclas disponíveis são:
 
 `A` `S` `D` `F` `G` `H` `J` `K` `L`
 
-Cada tecla reproduz um som diferente de bateria.
+Cada tecla reproduz um som diferente.
 
-Também é possível clicar diretamente nos botões utilizando o mouse.
+Também é possível clicar diretamente nos botões da interface.
 
 ---
 
 ## ✨ Funcionalidades
 
 - Reprodução de sons
-- Controle através do teclado
-- Controle através do mouse
+- Controle pelo teclado
+- Controle pelo mouse
 - Criação dinâmica dos botões
 - Efeito visual ao pressionar uma tecla
 
 ---
 
 ## 📚 O que pratiquei
+
+Durante este exercício, pratiquei:
 
 - Objetos em JavaScript
 - Funções
@@ -70,12 +74,18 @@ Também é possível clicar diretamente nos botões utilizando o mouse.
 
 ---
 
-## 📂 Estrutura principal
+## 🎓 Referência utilizada
 
-```text
-mini-projeto-DrumKit/
-├── img/
-├── sounds/
-├── index.html
-├── index.js
-└── style.css
+Projeto desenvolvido a partir do exercício presente no repositório:
+
+**Mini Projetos com JavaScript Puro — Fernando Leonid**
+
+🔗 [Ver repositório original](https://github.com/fernandoleonid/mini-projetos-js)
+
+Este repositório foi utilizado como material de estudo e prática.
+
+---
+
+<p align="center">
+  Projeto desenvolvido para fins de estudo de JavaScript. 🎶
+</p>
